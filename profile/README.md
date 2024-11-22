@@ -15,14 +15,13 @@ and standards for PDF technology. Together, we are driving the world’s digital
 resources and content that advance the industry, and that are driven by the industry._" - Martin Bailey, CTO, Global Graphics
 
 ## Why join the PDF Association?
-[Download the PDF to learn more!](https://www.pdfa.org/wp-content/uploads/2020/03/PDFAssociation-Membership.pdf)
 
 The PDF Association, e.V. was founded as the PDF/A Competence Center in 2006. In 2011 the organization broadened its scope to cover all aspects of PDF technology. 
 
 Today, the PDF Association's membership spans businesses, non-profit organizations, government agencies and individual consultants from across the globe. 
-Headquartered in Berlin, Germany, the PDF Association operates a wholly-owned subsidiary non-profit organization, PDF Association, Inc., in the United States.
+Headquartered in Berlin, Germany, the PDF Association operates a non-profit organization, PDF Association, Inc., in the United States.
 
-As a Category A liaison to and Committee Manager of [ISO / TC 171 / SC 2](https://www.iso.org/committee/53674.html), the PDF Association provides a pathway to participation in new ISO standards development. 
+As a Category A liaison to and Committee Manager of [ISO / TC 171 / SC 2](https://www.iso.org/committee/53674.html), the PDF Association provides a pathway to participation in ISO standards development. 
 
 _How does the PDF Association community benefit from membership?_
 
@@ -38,7 +37,7 @@ experience of electronic documents.
 
 ## Mission statement
 
-As adopted by the Board of Directors on November 30, 2023, the Mission of the PDF Association is:
+As updated by the Board of Directors on November 30, 2023, the Mission of the PDF Association is:
 
 > _Delivering a vendor-neutral platform for developing open specifications and standards for PDF technology._
 
