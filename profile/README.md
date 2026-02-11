@@ -49,8 +49,6 @@ As updated by the Board of Directors on November 30, 2022, the Mission of the PD
 
 To communicate with the PDF Association send email to [info@pdfa.org](mailto:info@pdfa.org).
 
-Download our [charter](https://www.pdfa.org/wp-content/uploads/2021/01/2021-PDFa-Charter.pdf) (PDF). E-Mail: [editors@pdfa.org](mailto:editors@pdfa.org)
-
 ## Questions
 
 [Contact](https://pdfa.org/contact-us/) the PDF Association.
