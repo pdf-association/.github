@@ -26,7 +26,8 @@ How does the PDF Association community benefit from membership?
 - Specification and reference development
 - Forums for stakeholders' concerns, questions and suggestions
 - Shared knowledge and experience
-- PDF's end users benefit from PDF industry collaboration with greater security, reliability, quality, functionality and interoperability in their experience of electronic documents.
+
+PDF's end users benefit from PDF industry collaboration with greater security, reliability, quality, functionality and interoperability in their experience of electronic documents.
 
 > “_The most useful aspect of my membership with the PDF Association is access to the community, and the opportunity to help drive development of
 resources and content that advance the industry, and that are driven by the industry._"
