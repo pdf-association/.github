@@ -1,4 +1,4 @@
-# Welcome to the PDF Association's GitHub presence
+ # Welcome to the PDF Association's GitHub presence
 
 ![LinkedIn](https://img.shields.io/static/v1?style=social&label=LinkedIn&logo=linkedin&message=PDF-Association)
 &nbsp;&nbsp;&nbsp;
