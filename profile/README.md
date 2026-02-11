@@ -9,7 +9,7 @@ Home of the worldwide PDF technical community, the PDF Association provides a ve
 
 Today, the PDF Association's [membership](https://pdfa.org/member/) spans businesses, non-profit organizations, government agencies and individual consultants from across the globe.
 
-As the secretariat administrator for ISO TC 171 SC 2 (on behalf of ANSI), the PDF Association manage the global standards-development process for all PDF's core standards.
+As the secretariat administrator for [ISO TC 171 SC 2](https://www.iso.org/committee/53674.html) (on behalf of ANSI), the PDF Association manage the global standards-development process for all PDF's core standards.
 
 As an [ISO Category A liaison](https://www.iso.org/organization/577251.html), the PDF Association provides a pathway to participation in ISO standards development for any stakeholder. The PDF Association is also in formal liaison with several other committees and organizations.
 
