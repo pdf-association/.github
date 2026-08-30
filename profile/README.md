@@ -1,9 +1,6 @@
  # Welcome to the PDF Association's GitHub presence
 
 ![LinkedIn](https://img.shields.io/static/v1?style=social&label=LinkedIn&logo=linkedin&message=PDF-Association)
-&nbsp;&nbsp;&nbsp;
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCJL_M0VH2lm65gvGVarUTKQ?style=social)
 
 Home of the worldwide PDF technical community, the PDF Association provides a vendor-neutral platform for developing open specifications and standards for PDF technology. Together, we are the standards development organization for PDF, driving the world’s digital document format into the 21st century and beyond.
 
